@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525716509329",
+    "project_id": "ezblog-e6eae",
+    "storage_bucket": "ezblog-e6eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525716509329:android:5061b7427839243e8ba530",
+        "android_client_info": {
+          "package_name": "com.example.ezblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525716509329-jtd4kvajlqh11dq8o8bjq20lfmokr03l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3gbKCeJcrcF_vx39DTlHjJNib0EaKpGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525716509329-jtd4kvajlqh11dq8o8bjq20lfmokr03l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
