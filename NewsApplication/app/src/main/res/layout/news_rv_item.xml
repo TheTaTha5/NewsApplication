@@ -20,18 +20,17 @@
 
 
     <TextView
+        android:id="@+id/idTVNewsHeading"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/idTVNewsHeading"
         android:layout_below="@id/idIVNews"
-        android:textColor="@color/yellow"
-        android:text="New Heading"
-        android:textStyle="bold"
-        android:textSize="18dp"
-        android:padding="3dp"
-        android:maxLines="2"
         android:layout_margin="3dp"
-        />
+        android:maxLines="2"
+        android:padding="3dp"
+        android:text="New Heading"
+        android:textColor="@color/yellow"
+        android:textSize="18dp"
+        android:textStyle="bold" />
 
     <TextView
         android:layout_width="match_parent"
