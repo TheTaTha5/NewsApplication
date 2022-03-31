@@ -1,6 +1,6 @@
 package com.example.newsapplication;
 
-public class CatagoryRVModal {
+public class categoryRVModal {
 
     private String category;
     private String categoryImageUrl;
@@ -21,7 +21,7 @@ public class CatagoryRVModal {
         this.categoryImageUrl = categoryImageUrl;
     }
 
-    public CatagoryRVModal(String category, String categoryImageUrl) {
+    public categoryRVModal(String category, String categoryImageUrl) {
         this.category = category;
         this.categoryImageUrl = categoryImageUrl;
     }
