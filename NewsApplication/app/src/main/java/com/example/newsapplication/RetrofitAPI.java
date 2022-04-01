@@ -7,6 +7,6 @@ public interface RetrofitAPI {
     Call<NewsModal> getAllNews(@Url String url);
 
     @GET
-    call<NewsModal>getNewsByCatergory(@Url String url);
+    Call<NewsModal>getNewsByCatergory(@Url String url);
 
 }

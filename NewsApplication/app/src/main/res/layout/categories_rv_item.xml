@@ -10,6 +10,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
+
         <androidx.constraintlayout.utils.widget.ImageFilterView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
